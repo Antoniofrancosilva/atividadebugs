@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780534154048",
+    "project_id": "resolverbugsflutter",
+    "storage_bucket": "resolverbugsflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780534154048:android:a80a57d984185a7d3470a5",
+        "android_client_info": {
+          "package_name": "com.example.bugsresolver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIA-ECkvektpwF0VTLNBSSXUDl3uiUfEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
